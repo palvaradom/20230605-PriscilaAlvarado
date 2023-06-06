@@ -1,0 +1,3 @@
+1. Software de sistema: Windows (Sistema Operativo)
+2. Software de programación: Visual Studio Code (IDE)
+3. Software de aplicación: MongoDB (Bases de datos)

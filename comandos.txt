@@ -1,0 +1,49 @@
+   82  git status
+   83  git add .
+   84  git commit -m "Añadiendo ejercicio 3"
+   85  git push origin main
+   86  clear
+   87  git status
+   88  git add .
+   89  git commit -m "Añadiendo el cuarto ejercicio"
+   90  git status
+   91  git log
+   92  clear
+   93  git push origin main
+   94  clear
+   95  git status
+   96  git add .
+   97  git commit -m "Añadiendo el quinto ejercicio"
+   98  clear
+   99  git push origin main
+  100  clear
+  101  code .
+  102  code .
+  103  code .
+  104  code .
+  105  code .
+  106  code .
+  107  code .
+  108  git init
+  109  git remote add origin https://github.com/palvaradom/20230605-PriscilaAlvarado.git
+  110  clear
+  111  git branch -M main
+  112  touch comandos.txt  main.js index.html
+  113  git add .
+  114  git commit -m "commit 01 de priscilaAlvarado"
+  115  git push origin main
+  116  git branch feature
+  117  git checkout feature 
+  118  mkdir Hardware Software SeguridadInformatica
+  119  touch Hardware/resumen.txt Software/resumen.txt SeguridadInformatica/resumen.txt
+  120  git add .
+  121  git commit -m "commit 02 de priscilaAlvarado"
+  122  git push origin feature
+  123  git checkout main
+  124  git mv main.js resumenHardware.txt index.html resumenSoftware.txt
+  125  mv main.js resumenHardware.txt index.html resumenSoftware.txt
+  126  git mv main.js resumenHardware.txt
+  127  git mv index.html resumenSoftware.txt
+  128  nano resumenSoftware.txt 
+  129  nano resumenHardware.txt 
+  130  history 50 > comandos.txt
